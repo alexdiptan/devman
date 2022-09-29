@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+lessons/lesson_2/link_clicks_count_bitly/credentials.py
+
 __pycache__/
 *.py[cod]
 *$py.class
