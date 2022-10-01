@@ -12,6 +12,7 @@
 `pip install -m requirements.txt`
 
 Создать файл `.env`, добавить в созданный файл переменную TOKEN. 
+
 Пример содержимого файла `.env`:
 ```python
 TOKEN = '9ac047c123h21j3hksada123zeq981b82d93b60ca4'
